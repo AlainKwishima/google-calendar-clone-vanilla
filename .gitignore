@@ -1,0 +1,57 @@
+# Dependency directories
+node_modules/
+
+# Build output directories
+dist/
+build/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# Linting files
+.eslintcache
+.stylelintcache
+
+# Package manager files
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+
+# Coverage directory for test frameworks
+coverage/
+
+# Screenshots or other large files
+screenshots/
+
+# Miscellaneous
+*.tmp
+*.temp
+
+# Webpack specific
+webpack.config.js
+
+# Compiled TypeScript
+*.tsbuildinfo
+
+# Git
+.git/
